@@ -1,2 +1,2 @@
 # laba-1
-код - 
+код - https://github.com/7roik7/laba-1/blob/main/laba.go
